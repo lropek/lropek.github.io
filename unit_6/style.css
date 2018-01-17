@@ -48,7 +48,7 @@ body {
 }
 
 #left {
-	background-color: #E582A2;
+	background-color: #99FF99;
 	border: 1px black solid;
 	padding: 20px;
 	float: left;
@@ -57,7 +57,7 @@ body {
 }
 
 #right {
-	background: color: #e55b88;
+	background: color: #FF66FF;
 	border: 1px black solid;
 	padding: 20px;
 	float: right;
