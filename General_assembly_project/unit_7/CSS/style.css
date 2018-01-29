@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text');
+
+header {
+	background-color: #ffed74;  
+	border: 1px black solid;
+	padding: 20px;
+}
+
+footer {
+	background-color: #ff957e; 
+	border: 1px black solid;
+	padding: 20px;
+}
+
+aside {
+	background-color: #ffc675; 
+	border: 1px black solid;
+	padding: 20px;
+
+}
+
+article {
+	background-color: #e89c6c; 
+	border: 1px black solid;
+	padding: 20px;
+}
+
+h1 {
+	font-family: 'Poppins', san-serif;  
+	color:blue; 
+}
+
+body {
+	background-color: #ff5050;
+	font-family:'Crimson Text', serif;
+	font-weight: normal;
+}
+
+#slogan {
+	font-style: italic;
+}
+
+#two_column {
+	background-color: #66CCFF;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#left {
+	background-color: #99FF99;
+	border: 1px black solid;
+	padding: 20px;
+	float: left;
+	width: 30%;
+
+}
+
+#right {
+	background-color: #FF99FF;
+	border: 1px black solid;
+	padding: 20px;
+	float: right;
+	width: 62%;
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block; 
+	font-size: 0;
+	content: ""; 
+	clear: both;
+	height: 0;
+}
+
