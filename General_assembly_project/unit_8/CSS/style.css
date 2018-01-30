@@ -75,7 +75,7 @@ body {
 
 @media only screen and (max-width: 1111px) {
 	#right {
-		float: left;
+		float: none;
 		width: auto;
 	}
 }
