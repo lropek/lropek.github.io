@@ -73,3 +73,10 @@ body {
 	height: 0;
 }
 
+@media only screen and (max-width: 488px) {
+	#img {
+		float: none;
+		width: auto;
+	}
+}
+
