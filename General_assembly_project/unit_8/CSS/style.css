@@ -73,5 +73,10 @@ body {
 	height: 0;
 }
 
-@media only screen and (max-width: )
+@media only screen and (max-width: 1111px) {
+	#right, #left {
+		float: none;
+		width: auto;
+	}
+}
 
