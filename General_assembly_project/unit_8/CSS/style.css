@@ -43,14 +43,14 @@ body {
 
 #two_column {
 	background-color: #68CCFF;
-	border: 1% black solid;
-	padding: 20%;
+	border: 1px black solid;
+	padding: 20px
 }
 
 #left {
 	background-color: #99FF99;
-	border: 1% black solid;
-	padding: 20%;
+	border: 1px black solid;
+	padding: 20px;
 	float: left;
 	width: 30%;
 
@@ -58,10 +58,10 @@ body {
 
 #right {
 	background-color: #FF99FF;
-	border: 1% black solid;
-	padding: 20%;
+	border: 1px black solid;
+	padding: 20px;
 	float: right;
-	width: 62%;
+	width: 62px;
 }
 
 .clearfix:after {
